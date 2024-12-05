@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(185, 166, 162);
+}
+.table{
+    margin-top: 30px;
+    margin-bottom: 30px ;
+    margin-right: 24px;
+    margin-left: 24;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.form{
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+.header{
+    box-shadow: 4px 8px rgb(233, 232, 232);
+    box-sizing: 2px;
+    :hover{
+        background-color: blue;
+    }
+
+    }
